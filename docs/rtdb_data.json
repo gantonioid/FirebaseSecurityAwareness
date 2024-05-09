@@ -1,0 +1,20 @@
+{
+  "Publico": {
+    "-Nh3VxVdkeq7ryaaHINI": "tienda 1",
+    "-Nh3W4OA-GzE8HhQ3Skg": "tienda 2"
+  },
+  "Users": {
+    "aaaaaa": {
+      "Billing": "esto es privado",
+      "Email": "correo@domain.com",
+      "Name": "Ricardo Garza",
+      "Permiso": "admin"
+    },
+    "bfTaSDzuL6P7phW8hZ8dWXOXSyl2": {
+      "Billing": "secretoooo!!",
+      "Email": "test@fridaplatform.online",
+      "Name": "Usuario de pruebas",
+      "Permiso": "basic"
+    }
+  }
+}
